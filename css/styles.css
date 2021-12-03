@@ -1,0 +1,13 @@
+@import "reset.css";
+@import "status-bar.css";
+@import "variables.css";
+
+/* Login Screen*/
+@import "login.css";
+
+/* navigation bar*/
+@import "components/nav-bar.css";
+
+body {
+  height: 1000vh;
+}
